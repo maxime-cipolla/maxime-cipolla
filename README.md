@@ -7,7 +7,7 @@
 - Quantitative analysis of financial markets
 - Machine Learning applied to finance
 
-💻 **Technologies**
+💻 **Technologies :**
 Python • SQL • Excel • TradingView • Git
 
 📬 **Contact :** [LinkedIn](https://www.linkedin.com/in/maxime-cipolla) | maxime.cipolla@edhec.com
