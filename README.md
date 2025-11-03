@@ -16,4 +16,3 @@ Python • SQL • Excel • TradingView • Git
 
 ### 🚀 Recent projects
 ⬇️ Find my projects below ⬇️
-⬇️ Find mes projects below !
