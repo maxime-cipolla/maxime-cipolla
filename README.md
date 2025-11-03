@@ -1,16 +1,19 @@
-## Hi there 👋
+## 👋 Hi there, I am Maxime !
 
-<!--
-**maxime-cipolla/maxime-cipolla** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 **EDHEC Business School student** with a background in Mathematics and Physics
 
-Here are some ideas to get you started:
+📊 **Fields of Interest**
+- Algorithmic Trading & backtesting
+- Quantitative analysis of financial markets
+- Machine Learning applied to finance
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+💻 **Technologies**
+Python • SQL • Excel • TradingView • Git
+
+📬 **Contact :** [LinkedIn](https://www.linkedin.com/in/maxime-cipolla) | maxime.cipolla@edhec.com
+
+---
+
+### 🚀 Recent projects
+⬇️ Find my projects below ⬇️
+⬇️ Find mes projects below !
